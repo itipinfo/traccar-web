@@ -17,6 +17,7 @@
                      is-multi-valued="true"/>
     <set-configuration-property name="traccar.locale" value="default" />
     <extend-configuration-property name="traccar.locale" value="ru" />
+    <extend-configuration-property name="traccar.locale" value="hr" />
     <extend-configuration-property name="traccar.locale" value="de" />
     <extend-configuration-property name="traccar.locale" value="it" />
     <extend-configuration-property name="traccar.locale" value="es" />
